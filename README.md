@@ -4,7 +4,7 @@ local Scripts = {
 		Path = "BloxFruits.luau"
 	},
 	{
-		PlacesIds = {10260193230},
+		PlacesIds = {10260193230},s
 		Path = "MemeSea.luau"
 	}
 }
